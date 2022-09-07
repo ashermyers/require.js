@@ -2,7 +2,7 @@
 requirejs: an extremely simple way of organizing variables and modules in javascript.
 
 
-##Syntax:
+## Syntax:
 
 `Defining a function.`
 `define("whateveryouwant", function (e){return e;})`
